@@ -33,7 +33,7 @@ h1, h2 {
 
 h1 {
   font-family: Baskerville;
-  font-size: 4em;
+  font-size: 5em;
   margin: 5px 0;
   vertical-align: baseline;
 }
@@ -49,41 +49,12 @@ a img {
   border-color: rgb(150, 173, 166);
 }
 
-
-#logo h1 {
-  font-size: 5em;
-	font-family: 'Libre Baskerville', serif;
-  color: rgb(150, 173, 166);
-}
-
-#about h2 {
-	font-family: 'Libre Baskerville', serif;
-  color: rgb(150, 173, 166);
-}
-
-#about p {
+p {
 	font-size: 100%;
   line-height: 1.5em;
 	font-family: 'Times New Roman', serif;
 }
 
-#press h2 {
-	font-family: 'Libre Baskerville', serif;
-  color: rgb(150, 173, 166);
-
-}
-
-#press img {
-  border-style: solid;
-  border-width: 5px;
-  border-color: rgb(150, 173, 166);
-  margin: 5px;
-}
-
-.col-1 {
-  float: left;
-  width: 21%;
-}
 
 .clearfix:after {
   content: ".";
@@ -94,9 +65,6 @@ a img {
   line-height: 0;
 }
 
-[class*="col-"] {
-  margin-left: 2%;
-}
 
 footer {
   padding: 10px 0px;
