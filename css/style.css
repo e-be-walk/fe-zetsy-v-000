@@ -90,7 +90,8 @@ section {
 }
 
 footer {
-	font-size: 100%;
+  padding: 10px 0px;
+	font-size: 0.75em;
 	font-family: 'Times New Roman', serif;
   float: right;
 }
