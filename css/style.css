@@ -31,6 +31,18 @@ h1, h2 {
   color: rgb(150, 173, 166);
 }
 
+h1 {
+  font-family: Baskerville;
+  font-size: 4em;
+  margin: 5px 0;
+  vertical-align: baseline;
+}
+
+header {
+  border-bottom: thin solid rgb(150, 173, 166);
+  margin-bottom: 3px;
+}
+
 #hero img {
   border-style: solid;
   border-width: 5px;
