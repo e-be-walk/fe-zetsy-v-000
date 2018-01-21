@@ -48,6 +48,10 @@ img {
   border-color: rgb(150, 173, 166);
 }
 
+a img:hover {
+  border-color: rgb(204, 204, 204);
+}
+
 p {
 	font-size: 100%;
   line-height: 1.5em;
@@ -55,19 +59,9 @@ p {
 }
 
 
-.clearfix:after {
-  content: ".";
-  display: block;
-  clear: both;
-  visibility: hidden;
-  height: 0;
-  line-height: 0;
-}
-
-
 footer {
   padding: 10px 0px;
 	font-size: 0.75em;
 	font-family: 'Times New Roman', serif;
-  float: right;
+  display: flex;
 }
