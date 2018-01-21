@@ -64,4 +64,5 @@ footer {
 	font-size: 0.75em;
 	font-family: 'Times New Roman', serif;
   display: flex;
+  justify-content: flex-end;
 }
