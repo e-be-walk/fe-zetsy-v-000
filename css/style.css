@@ -42,6 +42,7 @@ section {
 
 
 #logo h1 {
+  font-size: 5em;
 	font-family: 'Libre Baskerville', serif;
   color: rgb(150, 173, 166);
 }
